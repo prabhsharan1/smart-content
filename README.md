@@ -73,7 +73,10 @@ src/
 This project was created for the **Google Chrome Built-in AI Challenge**, showcasing the possibilities of Chrome's built-in AI capabilities to enrich productivity and content understanding directly in the browser.
 
 ### 🎥 Video Demonstration
-Watch the video demonstration here: [YouTube Link](https://youtu.be/your-video-link)
+Watch the video demonstration here: [SmartContent](https://youtu.be/kxTmtv777ew)
+
+### 🌐 Live Web App
+You can try out the live version of SmartContent here: [Netlify Live Link](https://stellular-kheer-8afbc5.netlify.app/)
 
 ### 📝 Text Description
 
