@@ -6,6 +6,10 @@
 
 SmartContent is a powerful web application built for the Google Chrome Built-in AI Challenge. It leverages Chrome's built-in AI capabilities and the Gemini API to provide intelligent content analysis and insights.
 
+### 🏆 **FreshHacks 2024 Winner**
+
+This project was proudly awarded as a winner at **FreshHacks 2024**, recognizing its innovation in leveraging AI for real-time content analysis.
+
 ### ✨ Key Features
 
 - **Smart Content Analysis**: Advanced text analysis powered by Chrome's built-in AI models
@@ -104,7 +108,6 @@ Throughout the development of SmartContent, the integration with the Gemini API 
 - **Rate Limiting and Quotas**: Working within API quotas and handling rate limits was essential, especially when testing iteratively.
 
 Overall, these APIs allowed for a quick and smooth content analysis experience directly in Chrome, but it was crucial to develop workarounds for error handling and response formatting issues. This feedback aims to provide Google with insight into real-world development challenges with these models, which would enhance developer experience if addressed.
-
 
 ## 🤝 Contributing
 
