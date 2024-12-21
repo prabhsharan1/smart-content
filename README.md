@@ -6,10 +6,6 @@
 
 SmartContent is a powerful web application built for the Google Chrome Built-in AI Challenge. It leverages Chrome's built-in AI capabilities and the Gemini API to provide intelligent content analysis and insights.
 
-### 🏆 **FreshHacks 2024 Winner**
-
-This project was proudly awarded as a winner at **FreshHacks 2024**, recognizing its innovation in leveraging AI for real-time content analysis.
-
 ### ✨ Key Features
 
 - **Smart Content Analysis**: Advanced text analysis powered by Chrome's built-in AI models
@@ -30,25 +26,29 @@ This project was proudly awarded as a winner at **FreshHacks 2024**, recognizing
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
+   
+bash
    git clone https://github.com/prabhsharan1/smart-content.git
    cd smart-content
-   ```
+
 
 2. Install dependencies:
-   ```bash
+   
+bash
    npm install
-   ```
 
-3. Create a `.env` file in the root directory and add your Gemini API key:
-   ```env
+
+3. Create a .env file in the root directory and add your Gemini API key:
+   
+env
    VITE_GEMINI_API_KEY=your_api_key_here
-   ```
+
 
 4. Start the development server:
-   ```bash
+   
+bash
    npm run dev
-   ```
+
 
 ## 🎯 Usage
 
@@ -59,7 +59,6 @@ This project was proudly awarded as a winner at **FreshHacks 2024**, recognizing
 
 ## 🏗️ Project Structure
 
-```
 src/
 ├── components/          # React components
 │   ├── Header.tsx
@@ -71,7 +70,7 @@ src/
 │   └── index.ts
 ├── hooks/              # Custom React hooks
 └── App.tsx             # Main application component
-```
+
 
 ## 🔍 Submission Information
 This project was created for the **Google Chrome Built-in AI Challenge**, showcasing the possibilities of Chrome's built-in AI capabilities to enrich productivity and content understanding directly in the browser.
@@ -109,12 +108,13 @@ Throughout the development of SmartContent, the integration with the Gemini API 
 
 Overall, these APIs allowed for a quick and smooth content analysis experience directly in Chrome, but it was crucial to develop workarounds for error handling and response formatting issues. This feedback aims to provide Google with insight into real-world development challenges with these models, which would enhance developer experience if addressed.
 
+
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create your feature branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add some amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
 
 ## 📄 License
